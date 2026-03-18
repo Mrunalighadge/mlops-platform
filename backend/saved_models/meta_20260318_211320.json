@@ -1,0 +1,1 @@
+{"version": "20260318_211320", "target_column": "Survived", "task_type": "classification", "features": ["PassengerId", "Pclass", "Name", "Sex", "Age", "SibSp", "Parch", "Ticket", "Fare", "Cabin", "Embarked"], "metrics": {"accuracy": 0.6757, "f1_score": 0.6502}, "trained_at": "2026-03-18T21:13:20.446836"}
